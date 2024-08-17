@@ -1,0 +1,1001 @@
+revID,Sentiment,Customer_Review,BookingID
+1,1,"wow loved plac",1
+2,0,"crust good",2
+3,0,"tasty texture nasti",3
+4,1,"stopped late may bank holiday rick steve recommendation lov",4
+5,1,"selection menu great pric",4
+6,0,"getting angry want damn pho",6
+7,0,"honeslty taste fresh",6
+8,0,"potatoes like rubber could tell made ahead time kept warm",6
+9,1,"fries great",9
+10,1,"great touch",10
+11,1,"service prompt",11
+12,0,"would go back",12
+13,0,"cashier care ever say still ended wayyy overpr",13
+14,1,"tried cape cod ravoli chicken cranberry mmmm",14
+15,0,"disgusted pretty sure human hair",15
+16,0,"shocked signs indicate cash",16
+17,1,"highly recommend",17
+18,0,"waitress little slow servic",18
+19,0,"place worth time let alone vega",19
+20,0,like,20
+21,0,"burrittos blah",21
+22,1,"food amaz",22
+23,1,"service also cut",22
+24,1,"could care less interior beauti",22
+25,1,perform,25
+26,1,"right red velvet cake ohhh stuff good",26
+27,0,"never brought salad ask",27
+28,1,"hole wall great mexican street tacos friendly staff",28
+29,0,"took hour get food tables restaurant food luke warm sever running around like totally overwhelm",29
+30,0,"worst salmon sashimi",30
+31,1,"also combos like burger fries beer decent d",31
+32,0,"like final blow",32
+33,1,"found place accident could happi",33
+34,0,"seems like good quick place grab bite familiar pub food favor look elsewher",34
+35,1,"overall like place lot",35
+36,1,"redeeming quality restaurant inexpens",36
+37,1,"ample portions good pric",37
+38,0,"poor service waiter made feel like stupid every time came t",38
+39,1,"first visit hiro delight",39
+40,0,"service suck",40
+41,1,"shrimp tender moist",41
+42,0,"deal good enough would drag establish",42
+43,0,"hard judge whether sides good grossed melted styrofoam want eat fear getting sick",43
+44,1,"positive note server attentive provided great servic",44
+45,0,"frozen pucks disgust worst people behind regist",45
+46,1,"thing like prime rib dessert sect",46
+47,0,"bad food damn gener",47
+48,1,"burger good beef cooked right",48
+49,1,"want sandwich go firehous",49
+50,1,"side greek salad greek dressing tasty pita hummus refresh",50
+51,1,"ordered duck rare pink tender inside nice char outsid",51
+52,1,"came running us realized husband left sunglasses t",52
+53,1,"chow mein good",53
+54,0,"horrible attitudes towards customers talk one customers enjoy food",54
+55,1,"portion hug",55
+56,1,"loved friendly servers great food wonderful imaginative menu",56
+57,0,"heart attack grill downtown vegas absolutely flat lined excuse restaur",57
+58,0,"much seafood like strings pasta bottom",58
+59,1,"salad right amount sauce power scallop perfectly cook",59
+60,0,"ripped banana ripped petrified tasteless",60
+61,0,"least think refill water struggle wave minut",61
+62,1,"place receives stars appet",62
+63,1,"cocktails handmade delici",63
+64,1,"definitely go back",64
+65,1,"glad found plac",65
+66,1,"great food service huge portions give military discount",66
+67,1,"always great time dos gringo",67
+68,1,"update went back second time still amaz",68
+69,0,"got food apparently never heard salt batter fish chewi",69
+70,1,"great way finish great",70
+71,1,"deal included tastings drinks jeff went beyond expect",71
+72,1,"really really good rice tim",72
+73,0,"service meh",73
+74,0,"took min get milkshake nothing chocolate milk",74
+75,0,"guess known place would suck inside excalibur use common sens",75
+76,0,"scallop dish quite appalling value wel",76
+77,0,"times bad customer servic",77
+78,1,"sweet potato fries good seasoned wel",78
+79,1,"today second time lunch buffet pretty good",79
+80,0,"much good food vegas feel cheated wasting eating opportunity going rice compani",80
+81,0,"coming like experiencing underwhelming relationship parties wait person ask break",81
+82,0,"walked place smelled like old grease trap others ",82
+83,0,"turkey roast beef bland",83
+84,1,place,84
+85,0,"pan cakes everyone raving taste like sugary disaster tailored palate six year old",85
+86,1,"love pho spring rolls oh yummy tri",86
+87,0,"poor batter meat ratio made chicken tenders unsatisfi",87
+88,1,"say food amaz",88
+89,1,"omelets di",89
+90,1,"everything fresh delici",90
+91,0,"summary largely disappointing dining experi",91
+92,1,"like really sexy party mouth outrageously flirting hottest person parti",92
+93,0,"never hard rock casino never ever step forward",93
+94,1,"best breakfast buffet",94
+95,0,"say bye bye tip ladi",95
+96,0,"never go",96
+97,1,back,97
+98,1,"food arrived quickli",98
+99,0,good,99
+100,1,"side cafe serves really good food",100
+101,1,"server fantastic found wife loves roasted garlic bone marrow added extra meal another marrow go",100
+102,1,"good thing waiter helpful kept bloddy mary com",102
+103,1,"best buffet town price cannot beat",103
+104,1,"loved mussels cooked wine reduction duck tender potato dishes delici",104
+105,1,"one better buffet",105
+106,1,"went tigerlilly fantastic afternoon",106
+107,1,"food delicious bartender attentive personable got great d",107
+108,1,"ambience wonderful music play",108
+109,1,"go back next trip",109
+110,1,"sooooo good",110
+111,0,"real sushi lovers let honest yama good",111
+112,0,"least min passed us ordering food arriving busi",112
+113,1,"really fantastic thai restaurant definitely worth visit",113
+114,1,"nice spicy tend",114
+115,1,"good pric",115
+116,1,check,116
+117,0,"pretty gross",117
+118,0,"better atmospher",118
+119,0,"kind hard mess steak",119
+120,0,"although much liked look sound place actual experience bit disappoint",120
+121,0,"know place managed served blandest food ever eaten preparing indian cuisin",121
+122,0,"worst service boot least worri",122
+123,1,"service fine waitress friendli",123
+124,1,"guys steaks steak loving son steak best worst places said best steak ever eaten",124
+125,1,"thought venture away get good sushi place really hit spot night",125
+126,0,"host staff lack better word bitch",126
+127,0,"bland liking place number reasons want waste time bad reviewing leav",127
+128,1,"phenomenal food service ambi",128
+129,0,return,129
+130,1,"definitely worth venturing strip pork belly return next time vega",130
+131,0,"place way overpriced mediocre food",131
+132,1,"penne vodka excel",132
+133,1,"good selection food including massive meatloaf sandwich crispy chicken wrap delish tuna melt tasty burg",133
+134,0,"management rud",134
+135,1,"delicious nyc bagels good selections cream cheese real lox capers even",135
+136,1,"great subway fact good come every subway meet expect",136
+137,1,"seriously solid breakfast",137
+138,1,"one best bars food vega",138
+139,0,"extremely rude really many restaurants would love dine weekend vega",139
+140,1,"drink never empty made really great menu suggest",140
+141,0,,141
+142,0,"waiter helpful friendly rarely checked u",142
+143,0,"husband ate lunch disappointed food servic",143
+144,0,"red curry much bamboo shoots tasti",144
+145,1,"nice blanket moz top feel like done cover subpar food",145
+146,1,"bathrooms clean place well decor",146
+147,0,"menu always changing food quality going service extremely slow",147
+148,0,"service little slow considering served people servers food coming slow pac",148
+149,0,"give thumb",149
+150,0,"watched waiter pay lot attention tables ignore u",150
+151,1,"fianc came middle day greeted seated right away",151
+152,1,"great restaurant mandalay bay",152
+153,0,"waited forty five minutes vain",153
+154,0,"crostini came salad stal",154
+155,1,"highlights great quality nigiri",155
+156,1,"staff friendly joint always clean",156
+157,1,"different cut piece day still wonderful tender well well flavor",157
+158,1,"ordered voodoo pasta first time really excellent pasta since going gluten free several years ago",158
+159,1,"place good",159
+160,0,"unfortunately must hit bakery leftover day everything ordered stal",160
+161,0,"came back today since relocated still impress",161
+162,1,"seated immedi",162
+163,1,"menu diverse reasonably pr",163
+164,0,"avoid cost",164
+165,1,"restaurant always full never wait",165
+166,1,delici,166
+167,1,"place hands one best places eat phoenix metro area",167
+168,0,"go looking good food",168
+169,0,"never treated bad",169
+170,1,"bacon hella salti",170
+171,0,"also ordered spinach avocado salad ingredients sad dressing literally zero tast",171
+172,1,"really vegas fine dining used right menus handed ladies prices list",172
+173,1,"waitresses friendli",173
+174,1,"lordy khao soi dish missed curry lov",174
+175,1,"everything menu terrific also thrilled made amazing accommodations vegetarian daught",175
+176,0,"perhaps caught night judging reviews inspired go back",176
+177,0,"service leaves lot desir",177
+178,1,"atmosphere modern hip maintaining touch cozi",178
+179,1,"weekly haunt definitely place come back everi",179
+180,0,"literally sat minutes one asking take ord",180
+181,0,"burger absolutely flavor meat totally bland burger overcooked charcoal flavor",181
+182,0,"also decided send back waitress looked like verge heart attack",182
+183,0,"dressed treated rud",183
+184,0,"probably dirt",184
+185,1,"love place hits spot want something healthy lacking quantity flavor",185
+186,1,"ordered lemon raspberry ice cocktail also incred",186
+187,0,"food sucked expected sucked could imagin",187
+188,1,"interesting decor",188
+189,1,"really like crepe st",189
+190,1,"also served hot bread butter home made potato chips bacon bits top original good",190
+191,1,"watch preparing delicious food",191
+192,1,"egg rolls fantast",192
+193,0,"order arrived one gyros miss",193
+194,1,"salad wings ice cream dessert left feeling quite satisfi",194
+195,0,"really sure joey voted best hot dog valley readers phoenix magazin",195
+196,1,"best place go tasty bowl pho",196
+197,0,"live music fridays totally blow",197
+198,0,"never insulted felt disrespect",198
+199,1,"friendly staff",199
+200,1,"worth driv",200
+201,1,"heard good things place exceeding every hope could dream",201
+202,1,"food great serivc",202
+203,0,"warm beer help",203
+204,1,"great brunch spot",204
+205,1,"service friendly invit",205
+206,1,"good lunch spot",206
+207,0,"lived since first last time stepped foot plac",207
+208,0,"worst experience ev",208
+209,0,"must night plac",209
+210,1,"sides delish mixed mushrooms yukon gold puree white corn beat",210
+211,0,"bug never showed would given sure side wall bug climbing kitchen",211
+212,0,"minutes waiting salad realized coming time soon",212
+213,1,"friend loved salmon tartar",213
+214,0,"go back",214
+215,1,"extremely tasti",215
+216,1,"waitress good though",216
+217,0,"soggy good",217
+218,1,"jamaican mojitos delici",218
+219,0,"small worth pric",219
+220,1,"food rich order accordingli",220
+221,0,"shower area outside rinse take full shower unless mind nude everyone se",221
+222,0,"service bit lack",222
+223,0,"lobster bisque bussell sprouts risotto filet needed salt pepper course none t",223
+224,0,"hopefully bodes going business someone cook com",224
+225,0,"either cold enough flavor bad",225
+226,1,"loved bacon wrapped d",226
+227,1,"unbelievable bargain",227
+228,1,"folks otto always make us feel welcome speci",228
+229,0,"mains also uninspir",229
+230,1,"place first pho amaz",230
+231,1,"wonderful experience made place must stop whenever town",231
+232,0,"food bad enough enjoy dealing world worst annoying drunk peopl",232
+233,1,"fun chef",233
+234,0,"ordered double cheeseburger got single patty falling apart picture uploaded yeah still suck",234
+235,1,"great place couple drinks watch sporting events walls covered tv",235
+236,0,"possible give zero star",236
+237,0,"descriptions said yum yum sauce another said eel sauce yet another said spicy mayo well none rolls sauc",237
+238,1,"say would hardest decision honestly dishes taste supposed taste amaz",238
+239,0,"rolled eyes may stayed sure go back tri",239
+240,1,"everyone attentive providing excellent customer servic",240
+241,0,"horrible waste time money",241
+242,1,"dish quite flavour",242
+243,0,"time side restaurant almost empty excus",243
+244,0,"busy either also building freezing cold",244
+245,0,"like reviewer said pay eat plac",245
+246,0,"drinks took close minutes come one point",246
+247,1,"seriously flavorful delights folk",247
+248,1,"much better ayce sushi place went vega",248
+249,1,"lighting dark enough set mood",249
+250,0,"based sub par service received effort show gratitude business going back",250
+251,1,"owner really great peopl",251
+252,0,"nothing privileged working ",252
+253,1,"greek dressing creamy flavor",253
+254,0,"overall think would take parents place made similar complaints silently felt",254
+255,1,"pizza good peanut sauce tasti",255
+256,1,"table service pretty fast",256
+257,1,"fantastic servic",257
+258,0,"well would given godfathers zero stars poss",258
+259,1,"know mak",259
+260,0,"tough short flavor",260
+261,1,"hope place sticks around",261
+262,0,"bars vegas ever recall charged tap wat",262
+263,1,"restaurant atmosphere exquisit",263
+264,1,"good service clean inexpensive boot",264
+265,1,"seafood fresh generous port",265
+266,1,"plus buck",266
+267,0,"service par eith",267
+268,1,"thus far visited twice food absolutely delicious tim",268
+269,1,"good year ago",269
+270,0,"self proclaimed coffee cafe wildly disappoint",270
+271,1,"veggitarian platter world",271
+272,1,"cant go wrong food",272
+273,1,beat,273
+274,1,"stopped place madison ironman friendly kind staff",274
+275,1,"chefs friendly good job",275
+276,0,"better dedicated boba tea spots even jenni pho",276
+277,1,"liked patio service outstand",277
+278,1,"goat taco skimp meat wow flavor",278
+279,0,think,279
+280,0,"mac salad pretty bland get",280
+281,1,"went bachi burger friend recommendation disappoint",281
+282,0,"service stink",282
+283,0,"waited wait",283
+284,0,"place quality sushi quality restaur",284
+285,1,"would definitely recommend wings well pizza",285
+286,1,"great pizza salad",286
+287,0,"things went wrong burned saganaki",287
+288,0,"waited hour breakfast could done times better hom",288
+289,1,"place amaz",289
+290,0,"hate disagree fellow yelpers husband disappointed plac",290
+291,0,"waited hours never got either pizzas many around us came lat",291
+292,0,"know slow",292
+293,1,"staff great food delish incredible beer select",293
+294,0,"live neighborhood disappointed back convenient loc",294
+295,1,"know pulled pork could soooo delici",295
+296,1,"get incredibly fresh fish prepared car",296
+297,0,"go gave star rating please know third time eating bachi burger writing review",297
+298,1,"love fact everything menu worth",298
+299,0,"never dining plac",299
+300,1,"food excellent service good",300
+301,1,"good beer drink selection good food select",301
+302,0,"please stay away shrimp stir fried noodl",302
+303,0,"potato chip order sad could probably count many chips box probably around",303
+304,0,"food really bor",304
+305,1,"good service check",305
+306,0,"greedy corporation never see another dim",306
+307,0,"never ever go back",307
+308,0,"much like go back get passed atrocious service never return",308
+309,1,"summer dine charming outdoor patio delight",309
+310,1,"expect good",310
+311,1,"fantastic food",311
+312,0,"ordered toasted english muffin came untoast",312
+313,1,"food good",313
+314,0,"never going back",314
+315,1,"great food price high quality house mad",315
+316,0,"bus boy hand rud",316
+317,0,"point friends basically figured place joke mind making publicly loudly known",317
+318,1,"back good bbq lighter fare reasonable pricing tell public back old way",318
+319,1,"considering two us left full happy go wrong",319
+320,1,"bread made hous",320
+321,0,"downside servic",321
+322,0,"also fries without doubt worst fries ev",322
+323,1,"service exceptional food good review",323
+324,1,"couple months later returned amazing m",324
+325,1,"favorite place town shawarrrrrrma",325
+326,1,"black eyed peas sweet potatoes unr",326
+327,1,disappoint,327
+328,1,"could serve vinaigrette may make better overall dish still good",328
+329,0,"go far many places never seen restaurant serves egg breakfast especi",329
+330,0,"mom got home immediately got sick bites salad",330
+331,0,"servers pleasant deal always honor pizza hut coupon",331
+332,1,"truly unbelievably good glad went back",332
+333,1,"fantastic service pleased atmospher",333
+334,0,"everything gross",334
+335,1,"love plac",335
+336,1,"great service food",336
+337,0,"first bathrooms location dirty seat covers replenished plain yucki",337
+338,0,"burger got gold standard burger kind disappoint",338
+339,1,"omg food delicioso",339
+340,0,"nothing authentic plac",340
+341,0,"spaghetti nothing special whatsoev",341
+342,1,"dishes salmon best great",342
+343,1,"vegetables fresh sauce feels like authentic thai",343
+344,1,"worth driving tucson",344
+345,0,"selection probably worst seen vegas non",345
+346,1,"pretty good beer select",346
+347,1,"place like chipotle bett",347
+348,1,"classy warm atmosphere fun fresh appetizers succulent steaks baseball steak",348
+349,1,"stars brick oven bread app",349
+350,1,"eaten multiple times time food delici",350
+351,0,"sat another ten minutes finally gave left",351
+352,0,terribl,352
+353,1,"everyone treated equally speci",353
+354,0,"take min pancakes egg",354
+355,1,delici,355
+356,1,"good side staff genuinely pleasant enthusiastic real treat",356
+357,0,"sadly gordon ramsey steak place shall sharply avoid next trip vega",357
+358,1,"always evening wonderful food delici",358
+359,1,"best fish ever lif",359
+360,1,"bathroom next door nic",360
+361,0,"buffet small food offered bland",361
+362,1,"outstanding little restaurant best food ever tast",362
+363,1,"pretty cool would say",363
+364,0,"definitely turn doubt back unless someone else buy",364
+365,1,"server great job handling large rowdy t",365
+366,0,"find wasting food despicable food",366
+367,0,"wife lobster bisque soup lukewarm",367
+368,1,"would come back sushi craving vega",368
+369,1,"staff great ambiance great",369
+370,1,"deserves star",370
+371,0,"left stomach ache felt sick rest day",371
+372,0,"dropped bal",372
+373,1,"dining space tiny elegantly decorated comfort",373
+374,1,"customize order way like usual eggplant green bean stir fry lov",374
+375,0,"beans rice mediocre best",375
+376,1,"best tacos town far",376
+377,0,"took back money got outta",377
+378,1,"interesting part town place amaz",378
+379,0,"rude inconsiderate manag",379
+380,0,"staff friendly wait times served horrible one even says hi first minut",380
+381,0,back,381
+382,1,"great dinn",382
+383,1,"service outshining definitely recommend halibut",383
+384,0,"food terr",384
+385,0,"never ever go back told many people happen",385
+386,0,"recommend unless car breaks front starv",386
+387,1,"come back every time vega",387
+388,0,"place deserves one star food",388
+389,0,disgrac,389
+390,1,"def coming back bowl next tim",390
+391,1,"want healthy authentic ethic food try plac",391
+392,1,"continue come ladies night andddd date night highly recommend place anyone area",392
+393,1,"several times past experience always great",393
+394,1,"walked away stuffed happy first vegas buffet experi",394
+395,1,"service excellent prices pretty reasonable considering vegas located inside crystals shopping mall aria",395
+396,1,"summarize food incredible nay transcendant nothing brings joy quite like memory pneumatic condiment dispens",396
+397,0,"probably one people ever go ians lik",397
+398,1,"kids pizza always hit lots great side dish options kiddo",398
+399,1,"service perfect family atmosphere nice se",399
+400,1,"cooked perfection service impecc",400
+401,0,"one simply disappoint",401
+402,0,"overall disappointed quality food bouchon",402
+403,0,"accountant know getting screw",403
+404,1,"great place eat reminds little mom pop shops san francisco bay area",404
+405,1,"today first taste buldogis gourmet hot dog tell ever thought poss",405
+406,0,"left frustr",406
+407,1,"definitely soon",407
+408,1,"food really good got full petty fast",408
+409,1,"service fantast",409
+410,0,"total waste tim",410
+411,1,"know kind best iced tea",411
+412,1,"come hungry leave happy stuf",412
+413,0,"service give star",413
+414,1,"assure disappoint",414
+415,0,"take little bad service food suck",415
+416,0,"gave trying eat crust teeth still sor",416
+417,0,"completely gross",417
+418,1,"really enjoyed ",418
+419,1,"first time going think quickly become regular",419
+420,1,"server nice even though looked little overwhelmed needs stayed professional friendly end",420
+421,1,"dinner companions told everything fresh nice texture tast",421
+422,0,"ground right next table large smeared stepped tracked everywhere pile green bird poop",422
+423,0,"furthermore even find hours operation websit",423
+424,0,"tried like place times think don",424
+425,0,mistak,425
+426,1,complaint,426
+427,1,"seriously good pizza expert connisseur top",427
+428,0,"waiter jerk",428
+429,0,"strike wants rush",429
+430,1,"nicest restaurant owners ever come across",430
+431,0,"never com",431
+432,1,"loved biscuit",432
+433,1,"service quick friendli",433
+434,0,"ordered appetizer took minutes pizza another minut",434
+435,1,"absolutley fantast",435
+436,0,"huge awkward lb piece cow ths gristle fat",436
+437,1,"definitely come back",437
+438,1,"like steiners dark feels like bar",438
+439,1,"wow spicy delici",439
+440,1,"familiar check",440
+441,0,"take business dinner dollars elsewher",441
+442,1,"love go back",442
+443,1,"anyway fs restaurant wonderful breakfast lunch",443
+444,0,"nothing speci",444
+445,1,"day week different deal delici",445
+446,1,"mention combination pears almonds bacon big winn",446
+447,0,back,447
+448,0,"sauce tasteless",448
+449,1,"food delicious spicy enough sure ask spicier prefer way",449
+450,1,"ribeye steak cooked perfectly great mesquite flavor",450
+451,0,"think going back anytime soon",451
+452,1,"food gooodd",452
+453,0,"far sushi connoisseur definitely tell difference good food bad food certainly bad food",453
+454,0,insult,454
+455,0,"last times lunch bad",455
+456,0,"chicken wings contained driest chicken meat ever eaten",456
+457,1,"food good enjoyed every mouthful enjoyable relaxed venue couples small family groups etc",457
+458,1,"nargile think great",458
+459,1,"best tater tots southwest",459
+460,1,"loved plac",460
+461,0,"definitely worth paid",461
+462,1,"vanilla ice cream creamy smooth profiterole choux pastry fresh enough",462
+463,1,"im az time new spot",463
+464,0,"manager worst",464
+465,1,"inside really quite nice clean",465
+466,1,"food outstanding prices reason",466
+467,0,"think running back carly anytime soon food",467
+468,0,"due fact took minutes acknowledged another minutes get food kept forgetting th",468
+469,1,"love margarita",469
+470,1,"first vegas buffet disappoint",470
+471,1,"good though",471
+472,0,"one note ventilation could use upgrad",472
+473,1,"great pork sandwich",473
+474,0,"waste tim",474
+475,0,"total letdown would much rather go camelback flower shop cartel coffe",475
+476,0,"third cheese friend burger cold",476
+477,1,"enjoy pizza brunch",477
+478,1,"steaks well trimmed also perfectly cook",478
+479,1,"group claimed would handled us beauti",479
+480,1,love,480
+481,0,"asked bill leave without eating bring eith",481
+482,1,"place jewel las vegas exactly hoping find nearly ten years liv",482
+483,0,"seafood limited boiled shrimp crab legs crab legs definitely taste fresh",483
+484,0,"selection food best",484
+485,1,"delicious absolutely back",485
+486,1,"small family restaurant fine dining establish",486
+487,1,"toro tartare cavier extraordinary liked thinly sliced wagyu white truffl",487
+488,0,"dont think back long tim",488
+489,0,"attached gas station rarely good sign",489
+490,1,awesom,490
+491,1,"back many times soon",491
+492,1,"menu much good stuff could decid",492
+493,0,"worse humiliated worker right front bunch horrible name cal",493
+494,1,"conclusion filling m",494
+495,1,"daily specials always hit group",495
+496,0,"tragedy struck",496
+497,1,"pancake also really good pretty larg",497
+498,1,"first crawfish experience delici",498
+499,1,"monster chicken fried steak eggs time favorit",499
+500,1,"waitress sweet funni",500
+501,1,"also taste mom multi grain pumpkin pancakes pecan butter amazing fluffy delici",501
+502,0,"rather eat airline food seri",502
+503,1,"cant say enough good things plac",503
+504,1,"ambiance incred",504
+505,1,"waitress manager friendli",505
+506,0,"would recommend plac",506
+507,0,"overall impressed noca",507
+508,0,"gyro basically lettuc",508
+509,0,"terrible servic",509
+510,0,"thoroughly disappoint",510
+511,1,"much pasta love homemade hand made pastas thin pizza",511
+512,1,"give try happi",512
+513,1,"far best cheesecurds ev",513
+514,1,"reasonably priced also",514
+515,1,"everything perfect night",515
+516,1,"food good typical bar food",516
+517,0,"drive get",517
+518,1,"first glance lovely bakery cafe nice ambiance clean friendly staff",518
+519,0,"anyway think go back",519
+520,1,"point finger item menu order disappoint",520
+521,1,"oh thing beauty restaur",521
+522,1,"gone go",522
+523,0,"greasy unhealthy m",523
+524,0,"first time might last",524
+525,1,"burgers amaz",525
+526,0,"similarly delivery man say word apology food minutes l",526
+527,0,"way expens",527
+528,1,"sure order dessert even need pack go tiramisu cannoli di",528
+529,1,"first time wait next",529
+530,1,"bartender also nic",530
+531,1,"everything good tasti",531
+532,1,"place two thumbs way",532
+533,1,"best place vegas breakfast check sat sun",533
+534,1,"love authentic mexican food want whole bunch interesting yet delicious meats choose need try plac",534
+535,0,"terrible manag",535
+536,1,"excellent new restaurant experienced frenchman",536
+537,0,"zero stars would give zero star",537
+538,1,"great steak great sides great wine amazing dessert",538
+539,0,"worst martini ev",539
+540,1,"steak shrimp opinion best entrees gc",540
+541,1,"opportunity today sample amazing pizza",541
+542,0,"waited thirty minutes seated although vacant tables folks wait",542
+543,1,"yellowtail carpaccio melt mouth fresh",543
+544,0,"try going back even empti",544
+545,0,"going eat potato found strangers hair",545
+546,1,"spicy enough perfect actu",546
+547,1,"last night second time dining happy decided go back",547
+548,0,"even hello right",548
+549,0,"desserts bit strang",549
+550,1,"boyfriend came first time recent trip vegas could pleased quality food servic",550
+551,1,"really recommend place go wrong donut plac",551
+552,1,"nice ambi",552
+553,1,"would recommend saving room",553
+554,0,"guess maybe went night disgrac",554
+555,0,"however recent experience particular location good",555
+556,0,"know like restaurants someth",556
+557,0,"avoid establish",557
+558,0,"think restaurant suffers trying hard enough",558
+559,1,"tapas dishes delici",559
+560,1,"heart plac",560
+561,0,"salad bland vinegrette baby greens hearts palm",561
+562,0,"two felt disgust",562
+563,1,"good tim",563
+564,1,"believe place great stop huge belly hankering sushi",564
+565,1,"generous portions great tast",565
+566,0,"never go back place never ever recommended place anyon",566
+567,0,"servers went back forth several times even much help",567
+568,1,"food delici",568
+569,0,"hour seri",569
+570,0,"consider theft",570
+571,0,"eew location needs complete overhaul",571
+572,0,"recently witnessed poor quality management towards guests wel",572
+573,0,"waited waited wait",573
+574,1,"also came back check us regularly excellent servic",574
+575,1,"server super nice checked us many tim",575
+576,0,"pizza tasted old super chewy good way",576
+577,0,"swung give try deeply disappoint",577
+578,1,"service good company bett",578
+579,1,"staff also friendly effici",579
+580,1,"service fan quick served nice folk",580
+581,0,"boy sucker dri",581
+582,0,rate,582
+583,0,"look authentic thai food go els",583
+584,1,"steaks recommend",584
+585,0,"pulled car waited another minutes acknowledg",585
+586,1,"great food great service clean friendly set",586
+587,1,"assure back",587
+588,0,"hate things much cheap quality black ol",588
+589,1,"breakfast perpared great beautiful presentation giant slices toast lightly dusted powdered sugar",589
+590,0,"kids play area nasti",590
+591,1,"great place fo take eat",591
+592,1,"waitress friendly happy accomodate vegan veggie opt",592
+593,1,"omg felt like never eaten thai food dish",593
+594,0,"extremely crumby pretty tasteless",594
+595,0,"pale color instead nice char flavor",595
+596,1,"croutons also taste homemade extra plu",596
+597,0,"got home see driest damn wings ev",597
+598,1,"regular stop trips phoenix",598
+599,1,"really enjoyed crema caf expanded even told friends best breakfast",599
+600,0,"good money",600
+601,1,"miss wish one philadelphia",601
+602,0,"got sitting fairly fast ended waiting minutes place order another minutes food arriv",602
+603,1,"also best cheese crisp town",603
+604,1,"good value great food great servic",604
+605,1,"ask satisfying m",605
+606,1,"food good",606
+607,1,awesom,607
+608,0,"wanted leav",608
+609,1,"made drive way north scottsdale one bit disappoint",609
+610,0,eat,610
+611,0,"owners really really need quit soooooo cheap let wrap freaking sandwich two papers on",611
+612,0,"checked place couple years ago impress",612
+613,0,"chicken got definitely reheated ok wedges cold soggi",613
+614,0,"sorry getting food anytime soon",614
+615,1,"absolute must visit",615
+616,1,"cow tongue cheek tacos amaz",616
+617,0,"friend like bloody mari",617
+618,0,"despite hard rate businesses actually rare give star",618
+619,1,"really want make experience good on",619
+620,0,return,620
+621,0,"chicken pho tasted bland",621
+622,0,disappoint,622
+623,1,"grilled chicken tender yellow saffron season",623
+624,0,"drive thru means want wait around half hour food somehow end going make us wait wait",624
+625,1,"pretty awesome plac",625
+626,1,"ambience perfect",626
+627,0,"best luck rude non customer service focused new manag",627
+628,0,"grandmother make roasted chicken better on",628
+629,0,"asked multiple times wine list time ignored went hostess got on",629
+630,1,"staff always super friendly helpful especially cool bring two small boys babi",630
+631,1,"four stars food guy blue shirt great vibe still letting us eat",631
+632,1,"roast beef sandwich tasted really good",632
+633,0,"evening drastically sick",633
+634,1,"high quality chicken chicken caesar salad",634
+635,0,"ordered burger rare came don",635
+636,1,"promptly greeted s",636
+637,0,"tried go lunch madhous",637
+638,1,"proven dead wrong sushi bar quality great service fast food impecc",638
+639,0,"waiting hour seated greatest mood",639
+640,1,"good joint",640
+641,1,"macarons insanely good",641
+642,0,eat,642
+643,1,"waiter attentive friendly inform",643
+644,0,"maybe cold would somewhat ed",644
+645,0,"place lot promise fails deliv",645
+646,0,"bad experi",646
+647,0,mistak,647
+648,0,"food average best",648
+649,1,"great food",649
+650,0,"going back anytime soon",650
+651,0,"disappointed ordered big bay plat",651
+652,1,"great place relax awesome burger b",652
+653,1,"perfect sit family meal get together friend",653
+654,0,"much flavor poorly construct",654
+655,1,"patio seating comfort",655
+656,0,"fried rice dry wel",656
+657,1,"hands favorite italian restaur",657
+658,1,"screams legit book somethat also pretty rare vega",658
+659,1,"fun experi",659
+660,1,"atmosphere great lovely duo violinists playing songs request",660
+661,1,"personally love hummus pita baklava falafels baba ganoush amazing eggpl",661
+662,1,"convenient since staying mgm",662
+663,1,"owners super friendly staff court",663
+664,1,great,664
+665,1,"eclectic select",665
+666,1,"sweet potato tots good onion rings perfection clos",666
+667,1,"staff attent",667
+668,1,"chef generous time even came around twice take pictur",668
+669,1,"owner used work nobu place really similar half pric",669
+670,0,"google mediocre imagine smashburger pop",670
+671,0,"dont go",671
+672,1,"promise disappoint",672
+673,0,"sushi lover avoid place mean",673
+674,1,"great double cheeseburg",674
+675,1,"awesome service food",675
+676,1,"fantastic neighborhood gem",676
+677,1,"wait go back",677
+678,0,"plantains worst ever tast",678
+679,1,"great place highly recommend",679
+680,0,"service slow attent",680
+681,1,"gave stars giving star",681
+682,0,"staff spends time talk",682
+683,1,"dessert panna cotta amaz",683
+684,1,"good food great atmospher",684
+685,1,"damn good steak",685
+686,0,"total brunch fail",686
+687,1,"prices reasonable flavors spot sauce home made slaw drenched mayo",687
+688,1,"decor nice piano music soundtrack pleas",688
+689,1,"steak amazing rge fillet relleno best seafood plate ev",689
+690,1,"good food good servic",690
+691,1,"absolutely amaz",691
+692,0,"probably back honest",692
+693,1,"definitely back",693
+694,1,"sergeant pepper beef sandwich auju sauce excellent sandwich wel",694
+695,1,"hawaiian breeze mango magic pineapple delight smoothies tried far good",695
+696,0,"went lunch service slow",696
+697,0,"much say place walked expected amazing quickly disappoint",697
+698,0,mortifi,698
+699,0,"needless say never back",699
+700,0,"anyways food definitely filling price pay expect",700
+701,0,"chips came dripping grease mostly ed",701
+702,0,"really impressed strip steak",702
+703,1,"going since every meal awesom",703
+704,1,"server nice attentive serving staff",704
+705,1,"cashier friendly even brought food",705
+706,0,"work hospitality industry paradise valley refrained recommending cibo long",706
+707,1,"atmosphere fun",707
+708,0,"would recommend oth",708
+709,1,"service quick even go orders like lik",709
+710,0,"mean really get famous fish chips terr",710
+711,1,"said mouths bellies still quite pleas",711
+712,0,thing,712
+713,1,thumb,713
+714,0,"reading please go",714
+715,1,"loved grilled pizza reminded legit italian pizza",715
+716,1,"pros large seating area nice bar area great simple drink menu best brick oven pizza homemade dough",716
+717,1,"really nice atmospher",717
+718,0,"tonight elk filet special suck",718
+719,1,"one bite hook",719
+720,0,"ordered old classics new dishes going times sorely disappointed everyth",720
+721,1,"cute quaint simple honest",721
+722,1,"chicken deliciously seasoned perfect fry outside moist chicken insid",722
+723,1,"food great always compliments chef",723
+724,1,"special thanks dylan recommendation order yummy tummi",724
+725,1,"awesome selection b",725
+726,1,"great food awesome servic",726
+727,1,"one nice thing added gratuity bill since party larger expect tip",727
+728,0,"fly apple juice fli",728
+729,1,"han nan chicken also tasti",729
+730,1,"service thought good",730
+731,0,"food barely lukewarm must sitting waiting server bring u",731
+732,0,"ryan bar definitely one edinburgh establishment revisit",732
+733,1,"nicest chinese restaur",733
+734,1,"overall like food servic",734
+735,1,"also serve indian naan bread hummus spicy pine nut sauce world",735
+736,0,"probably never coming back recommend",736
+737,0,"friend pasta also bad barely touch",737
+738,1,"try airport experience tasty food speedy friendly servic",738
+739,1,"love decor chinese calligraphy wall pap",739
+740,1,"never anything complain",740
+741,1,"restaurant clean family restaurant feel",741
+742,0,"way fri",742
+743,0,"sure long stood long enough begin feel awkwardly plac",743
+744,0,"opened sandwich impressed good way",744
+745,0,back,745
+746,1,"warm feeling service felt like guest special treat",746
+747,1,"extensive menu provides lots options breakfast",747
+748,1,"always order vegetarian menu dinner wide array options choos",748
+749,0,"watched prices inflate portions get smaller management attitudes grow rapidli",749
+750,1,"wonderful lil tapas ambience made feel warm fuzzy insid",750
+751,1,"got enjoy seafood salad fabulous vinegrett",751
+752,1,"wontons thin thick chewy almost melt mouth",752
+753,1,"level spicy perfect spice whelm soup",753
+754,1,"sat right time server get go fantast",754
+755,0,"main thing enjoy crowd older crowd around mid",755
+756,1,"side town definitely spot hit",756
+757,0,"wait minutes get drink longer get arepa",757
+758,1,"great place eat",758
+759,1,"jalapeno bacon soooo good",759
+760,0,"service poor thats nic",760
+761,1,"food good service good prices good",761
+762,0,"place clean food oh stal",762
+763,0,"chicken dishes ok beef like shoe leath",763
+764,0,"service beyond bad",764
+765,1,happi,765
+766,0,"tasted like dirt",766
+767,1,"one places phoenix would definately go back",767
+768,1,"block amaz",768
+769,1,"close house low key non fancy affordable prices good food",769
+770,1,"hot sour egg flower soups absolutely star",770
+771,0,"sashimi poor quality soggy tasteless",771
+772,1,"great time family dinner sunday night",772
+773,0,"food tasty say real traditional hunan styl",773
+774,0,"bother slow servic",774
+775,1,"flair bartenders absolutely amaz",775
+776,0,"frozen margaritas way sugary tast",776
+777,1,"good ordered twic",777
+778,0,"nutshell restaraunt smells like combination dirty fish market sew",778
+779,0,"girlfriend veal bad",779
+780,0,"unfortunately good",780
+781,1,"pretty satifying experi",781
+782,1,"join club get awesome offers via email",782
+783,1,"perfect someone likes beer ice cold case even cold",783
+784,0,"bland flavorless good way describing barely tepid meat",784
+785,0,"chains fan beat place easili",785
+786,1,"nachos must",786
+787,0,"coming back",787
+788,1,"many words say place everything pretty wel",788
+789,1,"staff super nice quick even crazy crowds downtown juries lawyers court staff",789
+790,1,"great atmosphere friendly fast servic",790
+791,1,"received pita huge lot meat thumb",791
+792,0,"food arrives meh",792
+793,0,"paying hot dog fries looks like came kid meal wienerschnitzel idea good m",793
+794,1,"classic maine lobster roll fantast",794
+795,0,"brother law works mall ate day guess sick night",795
+796,1,"good going review place twice hereas tribute place tribute event held last night",796
+797,1,"chips salsa really good salsa fresh",797
+798,1,"place great",798
+799,0,"mediocre food",799
+800,1,"get inside impressed plac",800
+801,0,"super pissd",801
+802,1,"service super friendli",802
+803,0,"sad little vegetables overcook",803
+804,1,"place nice surpris",804
+805,1,"golden crispy delici",805
+806,0,"high hopes place since burgers cooked charcoal grill unfortunately taste fell flat way flat",806
+807,1,"could eat bruschetta day devin",807
+808,0,"single employee came see ok even needed water refill finally served us food",808
+809,1,"lastly mozzarella sticks best thing ord",809
+810,1,"first time ever came amazing experience still tell people awesome duck",810
+811,0,"server negligent needs made us feel unwelcome would suggest plac",811
+812,0,"service terrible though",812
+813,0,"place overpriced consistent boba really overpr",813
+814,0,pack,814
+815,1,"love plac",815
+816,1,"say desserts yummi",816
+817,0,"food terr",817
+818,1,"seasonal fruit fresh white peach pure",818
+819,0,"kept getting worse worse officially don",819
+820,0,"place honestly blown",820
+821,0,"definitely would eat",821
+822,0,"waste money",822
+823,1,"love put food nice plastic containers opposed cramming little paper takeout box",823
+824,1,"cr pe delicate thin moist",824
+825,0,"awful servic",825
+826,0,"ever go",826
+827,0,"food quality horr",827
+828,0,"price think place would much rather gon",828
+829,0,"service fair best",829
+830,0,"love sushi found kabuki priced hip servic",830
+831,0,"favor stay away dish",831
+832,0,"poor servic",832
+833,0,"one table thought food average worth wait",833
+834,1,"best service food ever maria server good friendly made day",834
+835,1,excel,835
+836,0,"paid bill tip felt server terrible job",836
+837,1,"lunch great experi",837
+838,0,"never bland food surprised considering article read focused much spices flavor",838
+839,0,"food way overpriced portions fucking smal",839
+840,1,"recently tried caballero back every week sinc",840
+841,0,"bucks head really expect better food",841
+842,1,"food came good pac",842
+843,1,"ate twice last visit especially enjoyed salmon salad",843
+844,0,back,844
+845,0,"could believe dirty oyst",845
+846,0,"place deserves star",846
+847,0,"would recommend plac",847
+848,1,"fact going round stars awesom",848
+849,0,"disbelief dish qualified worst version foods ever tast",849
+850,0,"bad day low tolerance rude customer service people job nice polite wash dishes otherwis",850
+851,1,"potatoes great biscuit",851
+852,0,"probably would go",852
+853,1,"flavorful perfect amount heat",853
+854,1,"price reasonable service great",854
+855,0,"wife hated meal coconut shrimp friends really enjoy meals eith",855
+856,0,"fella got huevos rancheros look app",856
+857,1,"went happy hour great list win",857
+858,1,"may say buffet pricey think get pay place getting quite lot",858
+859,0,"probably coming back",859
+860,0,"worst food servic",860
+861,1,"place pretty good nice little vibe restaur",861
+862,1,"talk great customer service course back",862
+863,0,"hot dishes hot cold dishes close room temp watched staff prepare food bare hands gloves everything deep fried oil",863
+864,1,"love fries bean",864
+865,1,"always pleasure d",865
+866,1,"plethora salads sandwiches everything tried gets seal approv",866
+867,1,"place awesome want something light healthy summ",867
+868,1,"sushi strip place go",868
+869,1,"service great even manager came helped t",869
+870,0,"feel dining room college cooking course high class dining service slow best",870
+871,0,"started review two stars editing give on",871
+872,0,"worst sushi ever eat besides costco",872
+873,1,"excellent restaurant highlighted great service unique menu beautiful set",873
+874,1,"boyfriend sat bar completely delightful experi",874
+875,0,"weird vibe own",875
+876,0,"hardly meat",876
+877,0,"better bagels grocery stor",877
+878,1,"go place gyro",878
+879,1,"love owner chef one authentic japanese cool dud",879
+880,0,"burgers good pizza used amazing doughy flavorless",880
+881,0,"found six inch long piece wire salsa",881
+882,0,"service terrible food mediocr",882
+883,1,"definately enjoy",883
+884,0,"ordered albondigas soup warm tasted like tomato soup frozen meatbal",884
+885,0,"three different occasions asked well done medium well three times got bloodiest piece meat pl",885
+886,0,"two bites refused eat anymor",886
+887,0,"service extremely slow",887
+888,0,"minutes wait got t",888
+889,1,"seriously killer hot chai latt",889
+890,0,"allergy warnings menu waitress absolutely clue meals contain peanut",890
+891,1,"boyfriend tried mediterranean chicken salad fell lov",891
+892,1,"rotating beers tap also highlight plac",892
+893,0,"pricing bit concern mellow mushroom",893
+894,0,"worst thai ev",894
+895,1,"stay vegas must get breakfast least",895
+896,1,"want first say server great perfect servic",896
+897,1,"pizza selections good",897
+898,1,"strawberry tea good",898
+899,0,"highly unprofessional rude loyal patron",899
+900,1,"overall great experi",900
+901,0,"spend money elsewher",901
+902,1,"regular toasted bread equally satisfying occasional pats butter mmmm",902
+903,0,"buffet bellagio far anticip",903
+904,0,"drinks weak peopl",904
+905,0,"order correct",905
+906,0,"also feel like chips bought made hous",906
+907,0,"disappointing dinner went elsewhere dessert",907
+908,1,"chips sals amaz",908
+909,0,return,909
+910,1,"new fav vegas buffet spot",910
+911,0,"seriously cannot believe owner many unexperienced employees running around like chickens heads cut",911
+912,0,sad,912
+913,0,"felt insulted disrespected could talk judge another human lik",913
+914,0,"call steakhouse properly cook steak understand",914
+915,0,"impressed concept food",915
+916,0,"thing crazy guacamole like pur ",916
+917,0,"really nothing postinos hope experience bett",917
+918,0,"got food poisoning buffet",918
+919,0,"brought fresh batch fries thinking yay something warm",919
+920,0,"hilarious yummy christmas eve dinner remember biggest fail entire trip u",920
+921,0,"needless say going back anytime soon",921
+922,0,"place disgust",922
+923,1,"every time eat see caring teamwork professional degre",923
+924,0,"ri style calamari jok",924
+925,0,"however much garlic fondue barely ed",925
+926,0,"could barely stomach meal complain business lunch",926
+927,0,"bad lost heart finish",927
+928,0,"also took forever bring us check ask",928
+929,0,"ones make scene restaurants get definitely lost love on",929
+930,0,"disappointing experi",930
+931,0,"food par denny say good",931
+932,0,"want wait mediocre food downright terrible service plac",932
+933,0,"waaaaaayyyyyyyyyy rated say",933
+934,0,"going back",934
+935,0,"place fairly clean food simply worth",935
+936,0,"place lacked styl",936
+937,0,"sangria half glass wine full ridicul",937
+938,0,"bother com",938
+939,0,"meat pretty dry sliced brisket pulled pork",939
+940,0,"building seems pretty neat bathroom pretty trippy eat",940
+941,0,"equally aw",941
+942,0,"probably hurry go back",942
+943,0,"slow seating even reserv",943
+944,0,"good stretch imagin",944
+945,0,"cashew cream sauce bland vegetables undercook",945
+946,0,"chipolte ranch dipping sause tasteless seemed thin watered heat",946
+947,0,"bit sweet really spicy enough lacked flavor",947
+948,0,disappoint,948
+949,0,"place horrible way overpr",949
+950,0,"maybe vegetarian fare twice thought average best",950
+951,0,"busy know",951
+952,0,"tables outside also dirty lot time workers always friendly helpful menu",952
+953,0,"ambiance feel like buffet setting douchey indoor garden tea biscuit",953
+954,0,"con spotty servic",954
+955,0,"fries hot neither burg",955
+956,0,"came back cold",956
+957,0,"food came disappointment ensu",957
+958,0,"real disappointment wait",958
+959,0,"husband said rude even apologize bad food anyth",959
+960,0,"reason eat would fill night binge drinking get carbs stomach",960
+961,0,"insults profound deuchebaggery go outside smoke break serving solidifi",961
+962,0,"someone orders two tacos think may part customer service ask combo ala cart",962
+963,0,"quite disappointed although blame needs placed door",963
+964,0,"rave reviews wait eat disappoint",964
+965,0,"del taco pretty nasty avoided poss",965
+966,0,"hard make decent hamburg",966
+967,0,like,967
+968,0,"hell go back",968
+969,0,"gotten much better service pizza place next door services received restaur",969
+970,0,"know big deal place back ya",970
+971,0,"immediately said wanted talk manager want talk guy shots fireball behind bar",971
+972,0,"ambiance much bett",972
+973,0,"unfortunately set us disapppointment entre",973
+974,0,"food good",974
+975,0,"servers suck wait correction server heimer suck",975
+976,0,"happened next pretty put",976
+977,0,"bad cause know family owned really wanted like plac",977
+978,0,"overpriced get",978
+979,0,"vomited bathroom mid lunch",979
+980,0,"kept looking time soon become minutes yet still food",980
+981,0,"places eat circumstances would ever return tops list",981
+982,0,"started tuna sashimi brownish color obviously fresh",982
+983,0,"food averag",983
+984,0,"sure beat nachos movies would expect little bit coming restaur",984
+985,0,"ha long bay bit flop",985
+986,0,"problem charge sandwich bigger subway sub offers better amount veget",986
+987,0,"shrimp unwrapped live mile brushfire literally ice cold",987
+988,0,"lacked flavor seemed undercooked dri",988
+989,0,"really impressive place clos",989
+990,0,"would avoid place staying mirag",990
+991,0,"refried beans came meal dried crusty food bland",991
+992,0,"spend money time place els",992
+993,0,"lady table next us found live green caterpillar salad",993
+994,0,"presentation food aw",994
+995,0,"tell disappoint",995
+996,0,"think food flavor texture lack",996
+997,0,"appetite instantly gon",997
+998,0,"overall impressed would go back",998
+999,0,"whole experience underwhelming think go ninja sushi next tim",999
+1000,0,"wasted enough life poured salt wound drawing time took bring check",1000
