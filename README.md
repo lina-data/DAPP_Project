@@ -1,5 +1,5 @@
 # DAPP_Project
-##Hotel_Booking_Data_Analysis
+#Hotel_Booking_Data_Analysis
 a Python script for data EDA, SQL database, and a Power BI dashboard
 
 # Prerequisites
